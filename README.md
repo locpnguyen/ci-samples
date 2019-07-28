@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/heroloc89/ci-samples.svg?branch=master)](https://travis-ci.com/heroloc89/ci-samples)
+
 Samples for CI configurations using Docker images at https://github.com/katalon-studio/docker-images.
 
 ## Supported CIs
