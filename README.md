@@ -29,4 +29,4 @@ Samples for CI configurations using Docker images at https://github.com/katalon-
     ./katalon/run_firefox.sh
     
 If you are running the sample in Windows, also see issue #2.
-Trigger build test
+Trigger build test 123
